@@ -1,0 +1,29 @@
+{
+	"item.more.diamond_sword": "鑽石劍",
+	
+	"item.more.music_disc_minecraft": "唱片",
+	"item.more.music_disc_minecraft.desc": "C418 - Minecraft",
+	"item.more.music_disc_infinite_amethyst": "唱片",
+	"item.more.music_disc_infinite_amethyst.desc": "Lena Raine - Infinite Amethyst",
+	"item.more.music_disc_precipice": "唱片",
+	"item.more.music_disc_precipice.desc": "Aaron Cherof - Precipice",
+	"item.more.music_disc_creator": "唱片",
+	"item.more.music_disc_creator.desc": "Lena Raine - Creator",
+	"item.more.music_disc_creator_music_box": "唱片",
+	"item.more.music_disc_creator_music_box.desc": "Lena Raine - Creator（音樂盒）",
+
+	"item.more.totem_of_dying": "必死圖騰",
+	"item.more.yuki_suou": "周防有希",
+
+	"item.more.spawner_minecart": "生怪磚礦車",
+
+	"block.more.glowing_obsidian": "發光的黑曜石",
+	"block.more.reactor_core_stage": "地獄反應核",
+
+	"enchantment.more.bluntness": "粗鈍",
+	"enchantment.more.spare": "不死救星",
+	"enchantment.more.friend_of_arthropods": "節肢救星",
+	"enchantment.more.iron_maiden": "鉄處女",
+	"enchantment.more.poisoning": "淬毒",
+	"enchantment.more.retribution": "同歸於盡"
+}

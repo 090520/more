@@ -1,0 +1,29 @@
+{
+	"item.more.diamond_sword": "Diamond Sword",
+
+	"item.more.music_disc_minecraft": "Music Disc",
+	"item.more.music_disc_minecraft.desc": "C418 - Minecraft",
+	"item.more.music_disc_infinite_amethyst": "Music Disc",
+	"item.more.music_disc_infinite_amethyst.desc": "Lena Raine - Infinite Amethyst",
+	"item.more.music_disc_precipice": "Music Disc",
+	"item.more.music_disc_precipice.desc": "Aaron Cherof - Precipice",
+	"item.more.music_disc_creator": "Music Disc",
+	"item.more.music_disc_creator.desc": "Lena Raine - Creator",
+	"item.more.music_disc_creator_music_box": "Music Disc",
+	"item.more.music_disc_creator_music_box.desc": "Lena Raine - Creator (Music Box)",
+
+	"item.more.totem_of_dying": "Totem Of Dying",
+	"item.more.yuki_suou": "Yuki Suou",
+
+	"item.more.spawner_minecart": "Minecart with Monster Spawner",
+
+	"block.more.glowing_obsidian": "Glowing Obsidian",
+	"block.more.reactor_core_stage": "Reactor Core Stage",
+
+	"enchantment.more.bluntness": "Bluntness",
+	"enchantment.more.spare": "Spare",
+	"enchantment.more.friend_of_arthropods": "Friend Of Arthropods",
+	"enchantment.more.iron_maiden": "Iron Maiden",
+	"enchantment.more.poisoning": "Poisoning",
+	"enchantment.more.retribution": "Retribution"
+}

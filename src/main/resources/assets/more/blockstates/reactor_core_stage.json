@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"state=0": {"model": "more:block/reactor_core_stage_0"},
+		"state=1": {"model": "more:block/reactor_core_stage_1"},
+		"state=2": {"model": "more:block/reactor_core_stage_2"}
+	}
+}

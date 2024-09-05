@@ -1,0 +1,3 @@
+// 1.20.1	2024-09-02T15:58:38.7152633	More/Tags for minecraft:block
+863f3afaf68e6c0b38ff3a9b4192d1327bc75612 data\minecraft\tags\blocks\needs_diamond_tool.json
+49a7f8f5ca3798362200cbe6aa53fce486de3efa data\minecraft\tags\blocks\mineable\pickaxe.json
